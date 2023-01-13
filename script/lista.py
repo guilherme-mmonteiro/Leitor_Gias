@@ -1,0 +1,1 @@
+lista = ['script/data/01.pdf', 'script/data/02.pdf', 'script/data/03.pdf', 'script/data/04.pdf', 'script/data/05.pdf', 'script/data/06.pdf', 'script/data/07.pdf', 'script/data/08.pdf', 'script/data/09.pdf', 'script/data/10.pdf', 'script/data/11.pdf', 'script/data/12.pdf']
